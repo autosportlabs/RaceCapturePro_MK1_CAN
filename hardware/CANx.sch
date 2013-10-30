@@ -8,34 +8,34 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="12" fill="1" visible="no" active="no"/>
-<layer number="2" name="Route2" color="15" fill="1" visible="no" active="no"/>
-<layer number="3" name="Route3" color="4" fill="3" visible="no" active="no"/>
-<layer number="4" name="Route4" color="1" fill="4" visible="no" active="no"/>
-<layer number="5" name="Route5" color="4" fill="4" visible="no" active="no"/>
-<layer number="6" name="Route6" color="1" fill="8" visible="no" active="no"/>
-<layer number="7" name="Route7" color="4" fill="8" visible="no" active="no"/>
-<layer number="8" name="Route8" color="1" fill="2" visible="no" active="no"/>
-<layer number="9" name="Route9" color="4" fill="2" visible="no" active="no"/>
-<layer number="10" name="Route10" color="1" fill="7" visible="no" active="no"/>
-<layer number="11" name="Route11" color="4" fill="7" visible="no" active="no"/>
-<layer number="12" name="Route12" color="1" fill="5" visible="no" active="no"/>
-<layer number="13" name="Route13" color="4" fill="5" visible="no" active="no"/>
-<layer number="14" name="Route14" color="14" fill="1" visible="no" active="no"/>
-<layer number="15" name="Route15" color="13" fill="1" visible="no" active="no"/>
-<layer number="16" name="Bottom" color="9" fill="1" visible="no" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
-<layer number="20" name="Dimension" color="15" fill="1" visible="no" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
-<layer number="22" name="bPlace" color="8" fill="1" visible="no" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
+<layer number="2" name="Route2" color="1" fill="3" visible="yes" active="no"/>
+<layer number="3" name="Route3" color="4" fill="3" visible="yes" active="no"/>
+<layer number="4" name="Route4" color="1" fill="4" visible="yes" active="no"/>
+<layer number="5" name="Route5" color="4" fill="4" visible="yes" active="no"/>
+<layer number="6" name="Route6" color="1" fill="8" visible="yes" active="no"/>
+<layer number="7" name="Route7" color="4" fill="8" visible="yes" active="no"/>
+<layer number="8" name="Route8" color="1" fill="2" visible="yes" active="no"/>
+<layer number="9" name="Route9" color="4" fill="2" visible="yes" active="no"/>
+<layer number="10" name="Route10" color="1" fill="7" visible="yes" active="no"/>
+<layer number="11" name="Route11" color="4" fill="7" visible="yes" active="no"/>
+<layer number="12" name="Route12" color="1" fill="5" visible="yes" active="no"/>
+<layer number="13" name="Route13" color="4" fill="5" visible="yes" active="no"/>
+<layer number="14" name="Route14" color="1" fill="6" visible="yes" active="no"/>
+<layer number="15" name="Route15" color="4" fill="6" visible="yes" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
+<layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -44,8 +44,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -53,18 +53,18 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
-<layer number="57" name="tCAD" color="10" fill="1" visible="no" active="no"/>
-<layer number="58" name="bCAD" color="11" fill="1" visible="no" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
+<layer number="57" name="tCAD" color="10" fill="1" visible="yes" active="no"/>
+<layer number="58" name="bCAD" color="11" fill="1" visible="yes" active="no"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
 <layer number="93" name="Pins" color="2" fill="1" visible="no" active="yes"/>
@@ -11759,21 +11759,21 @@ Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00
 <parts>
 <part name="FRAME1" library="frames" deviceset="FRAME_C_L" device=""/>
 <part name="X2" library="FCI_RJ12" deviceset="RJ45_RIGHT_ANGLE" device="MOLEX_95001-2881"/>
-<part name="U9" library="can" deviceset="MCP2551" device="SO8"/>
+<part name="U2" library="can" deviceset="MCP2551" device="SO8"/>
 <part name="AIT_HOT16" library="supply2" deviceset="V--&gt;" device="" value=""/>
 <part name="AIT_HOT17" library="supply2" deviceset="V--&gt;" device="" value=""/>
-<part name="C11" library="rcl" deviceset="C-US" device="C0603K" value="0.1uf"/>
+<part name="C5" library="rcl" deviceset="C-US" device="C0603K" value="0.1uf"/>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
 <part name="GND10" library="supply1" deviceset="GND" device=""/>
 <part name="P+5" library="supply1" deviceset="+5V" device=""/>
 <part name="P+7" library="supply1" deviceset="+5V" device=""/>
-<part name="R15" library="rcl" deviceset="R-US_" device="R0603" value="4.7K"/>
+<part name="R1" library="rcl" deviceset="R-US_" device="R0603" value="4.7K"/>
 <part name="GND28" library="supply1" deviceset="GND" device=""/>
-<part name="R16" library="rcl" deviceset="R-US_" device="R0603" value="120"/>
+<part name="R2" library="rcl" deviceset="R-US_" device="R0603" value="120"/>
 <part name="AIT_HOT18" library="supply2" deviceset="V--&gt;" device="" value=""/>
 <part name="AIT_HOT20" library="supply2" deviceset="V--&gt;" device="" value=""/>
-<part name="IC1" library="can" deviceset="MCP2515" device="SO"/>
-<part name="C1" library="rcl" deviceset="C-US" device="C0603K" value="22pF"/>
+<part name="U1" library="can" deviceset="MCP2515" device="SO"/>
+<part name="C3" library="rcl" deviceset="C-US" device="C0603K" value="22pF"/>
 <part name="C2" library="rcl" deviceset="C-US" device="C0603K" value="22pF"/>
 <part name="Q1" library="SparkFun" deviceset="CRYSTAL" device="5X3" value="16MHz"/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
@@ -11790,13 +11790,13 @@ Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00
 <part name="AD4" library="supply2" deviceset="V--&gt;" device="" value=""/>
 <part name="P+2" library="supply1" deviceset="+5V" device=""/>
 <part name="GND5" library="supply1" deviceset="GND" device=""/>
-<part name="C3" library="rcl" deviceset="C-US" device="C0603K" value="0.1uF"/>
-<part name="C6" library="rcl" deviceset="CPOL-US" device="SMCA" value="10uF"/>
-<part name="L2" library="wuerth-elektronik" deviceset="WE-CBF" device="_1812"/>
+<part name="C4" library="rcl" deviceset="C-US" device="C0603K" value="0.1uF"/>
+<part name="C1" library="rcl" deviceset="CPOL-US" device="SMCD" value="10uF"/>
+<part name="L1" library="wuerth-elektronik" deviceset="WE-CBF" device="_1812"/>
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
 <part name="AD5" library="supply2" deviceset="V--&gt;" device="" value=""/>
 <part name="GND34" library="supply1" deviceset="GND" device=""/>
-<part name="X4" library="FCI_RJ12" deviceset="RJ45_RIGHT_ANGLE" device="MOLEX_95001-2881"/>
+<part name="X1" library="FCI_RJ12" deviceset="RJ45_RIGHT_ANGLE" device="MOLEX_95001-2881"/>
 <part name="AD28" library="supply2" deviceset="V--&gt;" device="" value=""/>
 <part name="P+39" library="supply1" deviceset="+12V" device=""/>
 </parts>
@@ -11806,7 +11806,7 @@ Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00
 <text x="353.06" y="175.26" size="6.4516" layer="97" rot="R180">Copyright 2012-2013 Autosport Labs</text>
 <text x="353.06" y="195.58" size="6.4516" layer="97" rot="R180">CANx</text>
 <text x="265.43" y="206.883" size="6.4516" layer="97" font="vector">autosportlabs.net</text>
-<text x="359.918" y="-179.832" size="5.08" layer="97">B</text>
+<text x="359.918" y="-179.832" size="5.08" layer="97">A</text>
 <text x="353.06" y="185.42" size="6.4516" layer="97" rot="R180">CAN bus expansion for RaceCapture/Pro</text>
 <rectangle x1="284.6705" y1="215.9635" x2="355.5365" y2="216.0905" layer="97"/>
 <rectangle x1="284.6705" y1="216.0905" x2="355.5365" y2="216.2175" layer="97"/>
@@ -13757,15 +13757,15 @@ Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00
 <instance part="FRAME1" gate="G$1" x="-187.96" y="-185.42"/>
 <instance part="FRAME1" gate="G$2" x="264.16" y="-185.42"/>
 <instance part="X2" gate="G$1" x="-20.32" y="60.96"/>
-<instance part="U9" gate="G$1" x="177.8" y="35.56"/>
-<instance part="U9" gate="G$2" x="170.18" y="5.08"/>
+<instance part="U2" gate="G$1" x="177.8" y="35.56"/>
+<instance part="U2" gate="G$2" x="170.18" y="5.08"/>
 <instance part="AIT_HOT16" gate="G$1" x="200.8136" y="38.1748" smashed="yes">
 <attribute name="VALUE" x="202.0836" y="37.4128" size="1.778" layer="96"/>
 </instance>
 <instance part="AIT_HOT17" gate="G$1" x="200.8136" y="33.0948" smashed="yes">
 <attribute name="VALUE" x="202.0836" y="32.3328" size="1.778" layer="96"/>
 </instance>
-<instance part="C11" gate="G$1" x="187.96" y="7.62" smashed="yes">
+<instance part="C5" gate="G$1" x="187.96" y="7.62" smashed="yes">
 <attribute name="NAME" x="179.578" y="3.175" size="1.778" layer="95"/>
 <attribute name="VALUE" x="179.07" y="5.969" size="1.778" layer="96"/>
 </instance>
@@ -13777,12 +13777,12 @@ Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00
 <instance part="P+7" gate="1" x="187.96" y="17.78" smashed="yes">
 <attribute name="VALUE" x="188.468" y="18.288" size="1.778" layer="96"/>
 </instance>
-<instance part="R15" gate="G$1" x="152.4" y="24.13" smashed="yes" rot="R90">
+<instance part="R1" gate="G$1" x="152.4" y="24.13" smashed="yes" rot="R90">
 <attribute name="NAME" x="150.368" y="25.6794" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="150.495" y="23.241" size="1.778" layer="96" rot="R180"/>
 </instance>
 <instance part="GND28" gate="1" x="152.4" y="13.97"/>
-<instance part="R16" gate="G$1" x="191.77" y="55.88" smashed="yes" rot="R180">
+<instance part="R2" gate="G$1" x="191.77" y="55.88" smashed="yes" rot="R180">
 <attribute name="NAME" x="190.2206" y="53.848" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="192.659" y="53.975" size="1.778" layer="96" rot="R270"/>
 </instance>
@@ -13792,8 +13792,8 @@ Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00
 <instance part="AIT_HOT20" gate="G$1" x="200.8136" y="58.4948" smashed="yes">
 <attribute name="VALUE" x="202.0836" y="57.7328" size="1.778" layer="96"/>
 </instance>
-<instance part="IC1" gate="D" x="104.14" y="35.56"/>
-<instance part="C1" gate="G$1" x="76.2" y="10.16" smashed="yes">
+<instance part="U1" gate="D" x="104.14" y="35.56"/>
+<instance part="C3" gate="G$1" x="76.2" y="10.16" smashed="yes">
 <attribute name="NAME" x="67.818" y="5.715" size="1.778" layer="95"/>
 <attribute name="VALUE" x="67.31" y="8.509" size="1.778" layer="96"/>
 </instance>
@@ -13835,23 +13835,23 @@ Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00
 <instance part="AD4" gate="G$1" x="63.246" y="35.56" smashed="yes" rot="R180">
 <attribute name="VALUE" x="61.976" y="36.322" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="IC1" gate="P" x="109.22" y="-2.54"/>
+<instance part="U1" gate="P" x="109.22" y="-2.54"/>
 <instance part="P+2" gate="1" x="109.22" y="12.7" smashed="yes">
 <attribute name="VALUE" x="107.95" y="18.288" size="1.778" layer="96" rot="R270"/>
 </instance>
 <instance part="GND5" gate="1" x="109.22" y="-17.78"/>
-<instance part="C3" gate="G$1" x="99.06" y="-2.54" smashed="yes">
+<instance part="C4" gate="G$1" x="99.06" y="-2.54" smashed="yes">
 <attribute name="NAME" x="90.678" y="-6.985" size="1.778" layer="95"/>
 <attribute name="VALUE" x="90.17" y="-4.191" size="1.778" layer="96"/>
 </instance>
-<instance part="C6" gate="G$1" x="33.02" y="12.7"/>
-<instance part="L2" gate="G$1" x="22.86" y="22.86" rot="R180"/>
+<instance part="C1" gate="G$1" x="33.02" y="12.7"/>
+<instance part="L1" gate="G$1" x="22.86" y="22.86" rot="R180"/>
 <instance part="GND6" gate="1" x="33.02" y="-2.54"/>
 <instance part="AD5" gate="G$1" x="-58.166" y="22.86" smashed="yes">
 <attribute name="VALUE" x="-56.896" y="22.098" size="1.778" layer="96"/>
 </instance>
 <instance part="GND34" gate="1" x="-66.04" y="35.56"/>
-<instance part="X4" gate="G$1" x="-78.74" y="60.96"/>
+<instance part="X1" gate="G$1" x="-78.74" y="60.96"/>
 <instance part="AD28" gate="G$1" x="-58.166" y="17.78" smashed="yes">
 <attribute name="VALUE" x="-56.896" y="17.018" size="1.778" layer="96"/>
 </instance>
@@ -13865,20 +13865,20 @@ Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00
 <net name="GND" class="0">
 <segment>
 <wire x1="187.96" y1="-2.54" x2="187.96" y2="2.54" width="0.1524" layer="91"/>
-<pinref part="C11" gate="G$1" pin="2"/>
+<pinref part="C5" gate="G$1" pin="2"/>
 <pinref part="GND2" gate="1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="U9" gate="G$2" pin="GND"/>
+<pinref part="U2" gate="G$2" pin="GND"/>
 <pinref part="GND10" gate="1" pin="GND"/>
 </segment>
 <segment>
 <wire x1="152.4" y1="16.51" x2="152.4" y2="19.05" width="0.1524" layer="91"/>
-<pinref part="R15" gate="G$1" pin="1"/>
+<pinref part="R1" gate="G$1" pin="1"/>
 <pinref part="GND28" gate="1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="C1" gate="G$1" pin="2"/>
+<pinref part="C3" gate="G$1" pin="2"/>
 <pinref part="GND3" gate="1" pin="GND"/>
 </segment>
 <segment>
@@ -13891,10 +13891,10 @@ Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00
 <pinref part="X2" gate="G$1" pin="P3"/>
 </segment>
 <segment>
-<pinref part="IC1" gate="P" pin="GND"/>
+<pinref part="U1" gate="P" pin="GND"/>
 <pinref part="GND5" gate="1" pin="GND"/>
 <wire x1="109.22" y1="-15.24" x2="109.22" y2="-12.7" width="0.1524" layer="91"/>
-<pinref part="C3" gate="G$1" pin="2"/>
+<pinref part="C4" gate="G$1" pin="2"/>
 <wire x1="109.22" y1="-12.7" x2="109.22" y2="-10.16" width="0.1524" layer="91"/>
 <wire x1="99.06" y1="-7.62" x2="99.06" y2="-12.7" width="0.1524" layer="91"/>
 <wire x1="99.06" y1="-12.7" x2="109.22" y2="-12.7" width="0.1524" layer="91"/>
@@ -13902,11 +13902,11 @@ Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00
 </segment>
 <segment>
 <wire x1="33.02" y1="0" x2="33.02" y2="7.62" width="0.1524" layer="91"/>
-<pinref part="C6" gate="G$1" pin="-"/>
+<pinref part="C1" gate="G$1" pin="-"/>
 <pinref part="GND6" gate="1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="X4" gate="G$1" pin="P1"/>
+<pinref part="X1" gate="G$1" pin="P1"/>
 <pinref part="GND34" gate="1" pin="GND"/>
 <wire x1="-66.04" y1="38.1" x2="-66.04" y2="43.18" width="0.1524" layer="91"/>
 </segment>
@@ -13914,49 +13914,49 @@ Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00
 <net name="+5V" class="0">
 <segment>
 <wire x1="187.96" y1="10.16" x2="187.96" y2="15.24" width="0.1524" layer="91"/>
-<pinref part="C11" gate="G$1" pin="1"/>
+<pinref part="C5" gate="G$1" pin="1"/>
 <pinref part="P+7" gate="1" pin="+5V"/>
 </segment>
 <segment>
 <wire x1="170.18" y1="15.24" x2="170.18" y2="12.7" width="0.1524" layer="91"/>
-<pinref part="U9" gate="G$2" pin="VCC"/>
+<pinref part="U2" gate="G$2" pin="VCC"/>
 <pinref part="P+5" gate="1" pin="+5V"/>
 </segment>
 <segment>
-<pinref part="IC1" gate="P" pin="VCC"/>
+<pinref part="U1" gate="P" pin="VCC"/>
 <pinref part="P+2" gate="1" pin="+5V"/>
 <wire x1="109.22" y1="10.16" x2="109.22" y2="7.62" width="0.1524" layer="91"/>
-<pinref part="C3" gate="G$1" pin="1"/>
+<pinref part="C4" gate="G$1" pin="1"/>
 <wire x1="109.22" y1="7.62" x2="109.22" y2="5.08" width="0.1524" layer="91"/>
 <wire x1="99.06" y1="0" x2="99.06" y2="7.62" width="0.1524" layer="91"/>
 <wire x1="99.06" y1="7.62" x2="109.22" y2="7.62" width="0.1524" layer="91"/>
 <junction x="109.22" y="7.62"/>
 </segment>
 <segment>
-<pinref part="L2" gate="G$1" pin="1"/>
+<pinref part="L1" gate="G$1" pin="1"/>
 <pinref part="P+1" gate="1" pin="+5V"/>
 <wire x1="27.94" y1="20.32" x2="33.02" y2="20.32" width="0.1524" layer="91"/>
 <wire x1="33.02" y1="20.32" x2="33.02" y2="27.94" width="0.1524" layer="91"/>
-<pinref part="C6" gate="G$1" pin="+"/>
+<pinref part="C1" gate="G$1" pin="+"/>
 <wire x1="33.02" y1="20.32" x2="33.02" y2="15.24" width="0.1524" layer="91"/>
 <junction x="33.02" y="20.32"/>
 </segment>
 </net>
 <net name="CAN1_RX" class="0">
 <segment>
-<pinref part="U9" gate="G$1" pin="RXD"/>
+<pinref part="U2" gate="G$1" pin="RXD"/>
 <wire x1="165.1" y1="38.1" x2="134.62" y2="38.1" width="0.1524" layer="91"/>
 <wire x1="134.62" y1="38.1" x2="134.62" y2="40.64" width="0.1524" layer="91"/>
-<pinref part="IC1" gate="D" pin="RXCAN"/>
+<pinref part="U1" gate="D" pin="RXCAN"/>
 <wire x1="134.62" y1="40.64" x2="119.38" y2="40.64" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="CAN1_TX" class="0">
 <segment>
-<pinref part="U9" gate="G$1" pin="TXD"/>
+<pinref part="U2" gate="G$1" pin="TXD"/>
 <wire x1="165.1" y1="40.64" x2="137.16" y2="40.64" width="0.1524" layer="91"/>
 <wire x1="137.16" y1="40.64" x2="137.16" y2="43.18" width="0.1524" layer="91"/>
-<pinref part="IC1" gate="D" pin="TXCAN"/>
+<pinref part="U1" gate="D" pin="TXCAN"/>
 <wire x1="137.16" y1="43.18" x2="119.38" y2="43.18" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -13964,13 +13964,13 @@ Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00
 <segment>
 <wire x1="152.4" y1="29.21" x2="152.4" y2="30.48" width="0.1524" layer="91"/>
 <wire x1="152.4" y1="30.48" x2="165.1" y2="30.48" width="0.1524" layer="91"/>
-<pinref part="U9" gate="G$1" pin="RS"/>
-<pinref part="R15" gate="G$1" pin="2"/>
+<pinref part="U2" gate="G$1" pin="RS"/>
+<pinref part="R1" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="N$1" class="0">
 <segment>
-<pinref part="IC1" gate="D" pin="OSC1"/>
+<pinref part="U1" gate="D" pin="OSC1"/>
 <pinref part="C2" gate="G$1" pin="1"/>
 <wire x1="86.36" y1="25.4" x2="60.96" y2="25.4" width="0.1524" layer="91"/>
 <wire x1="60.96" y1="25.4" x2="60.96" y2="17.78" width="0.1524" layer="91"/>
@@ -13983,10 +13983,10 @@ Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00
 <net name="N$2" class="0">
 <segment>
 <pinref part="Q1" gate="G$1" pin="1"/>
-<pinref part="C1" gate="G$1" pin="1"/>
+<pinref part="C3" gate="G$1" pin="1"/>
 <wire x1="71.12" y1="17.78" x2="76.2" y2="17.78" width="0.1524" layer="91"/>
 <wire x1="76.2" y1="17.78" x2="76.2" y2="12.7" width="0.1524" layer="91"/>
-<pinref part="IC1" gate="D" pin="OSC2"/>
+<pinref part="U1" gate="D" pin="OSC2"/>
 <wire x1="86.36" y1="22.86" x2="76.2" y2="22.86" width="0.1524" layer="91"/>
 <wire x1="76.2" y1="22.86" x2="76.2" y2="17.78" width="0.1524" layer="91"/>
 <junction x="76.2" y="17.78"/>
@@ -14000,7 +14000,7 @@ Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00
 <pinref part="X2" gate="G$1" pin="P7"/>
 </segment>
 <segment>
-<pinref part="IC1" gate="D" pin="SI"/>
+<pinref part="U1" gate="D" pin="SI"/>
 <wire x1="86.36" y1="33.02" x2="63.5" y2="33.02" width="0.1524" layer="91"/>
 <label x="62.992" y="33.782" size="1.778" layer="95" rot="R180"/>
 </segment>
@@ -14013,7 +14013,7 @@ Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00
 <pinref part="X2" gate="G$1" pin="P2"/>
 </segment>
 <segment>
-<pinref part="IC1" gate="D" pin="SCK"/>
+<pinref part="U1" gate="D" pin="SCK"/>
 <wire x1="86.36" y1="35.56" x2="63.5" y2="35.56" width="0.1524" layer="91"/>
 <label x="63.246" y="36.322" size="1.778" layer="95" rot="R180"/>
 </segment>
@@ -14026,7 +14026,7 @@ Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00
 <pinref part="X2" gate="G$1" pin="P8"/>
 </segment>
 <segment>
-<pinref part="IC1" gate="D" pin="SO"/>
+<pinref part="U1" gate="D" pin="SO"/>
 <wire x1="86.36" y1="30.48" x2="63.5" y2="30.48" width="0.1524" layer="91"/>
 <label x="62.992" y="31.496" size="1.778" layer="95" rot="R180"/>
 </segment>
@@ -14039,7 +14039,7 @@ Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00
 <pinref part="X2" gate="G$1" pin="P1"/>
 </segment>
 <segment>
-<pinref part="IC1" gate="D" pin="CS"/>
+<pinref part="U1" gate="D" pin="CS"/>
 <wire x1="86.36" y1="38.1" x2="63.5" y2="38.1" width="0.1524" layer="91"/>
 <label x="62.992" y="38.862" size="1.778" layer="95" rot="R180"/>
 </segment>
@@ -14049,26 +14049,26 @@ Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00
 <pinref part="X2" gate="G$1" pin="P6"/>
 <wire x1="-20.32" y1="43.18" x2="-20.32" y2="20.32" width="0.1524" layer="91"/>
 <wire x1="-20.32" y1="20.32" x2="17.78" y2="20.32" width="0.1524" layer="91"/>
-<pinref part="L2" gate="G$1" pin="2"/>
+<pinref part="L1" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="CANL" class="0">
 <segment>
 <wire x1="190.5" y1="38.1" x2="200.66" y2="38.1" width="0.1524" layer="91"/>
 <label x="201.168" y="37.338" size="1.778" layer="95"/>
-<pinref part="U9" gate="G$1" pin="CANL"/>
+<pinref part="U2" gate="G$1" pin="CANL"/>
 </segment>
 <segment>
 <wire x1="185.42" y1="58.42" x2="200.66" y2="58.42" width="0.1524" layer="91"/>
 <wire x1="185.42" y1="55.88" x2="186.69" y2="55.88" width="0.1524" layer="91"/>
 <wire x1="185.42" y1="58.42" x2="185.42" y2="55.88" width="0.1524" layer="91"/>
 <label x="201.168" y="57.658" size="1.778" layer="95"/>
-<pinref part="R16" gate="G$1" pin="2"/>
+<pinref part="R2" gate="G$1" pin="2"/>
 </segment>
 <segment>
 <wire x1="-71.12" y1="17.78" x2="-58.42" y2="17.78" width="0.1524" layer="91"/>
 <label x="-57.658" y="17.018" size="1.778" layer="95"/>
-<pinref part="X4" gate="G$1" pin="P3"/>
+<pinref part="X1" gate="G$1" pin="P3"/>
 <wire x1="-71.12" y1="17.78" x2="-71.12" y2="43.18" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -14076,23 +14076,23 @@ Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00
 <segment>
 <wire x1="190.5" y1="33.02" x2="200.66" y2="33.02" width="0.1524" layer="91"/>
 <label x="201.168" y="32.258" size="1.778" layer="95"/>
-<pinref part="U9" gate="G$1" pin="CANH"/>
+<pinref part="U2" gate="G$1" pin="CANH"/>
 </segment>
 <segment>
 <wire x1="196.85" y1="55.88" x2="200.66" y2="55.88" width="0.1524" layer="91"/>
 <label x="201.168" y="55.118" size="1.778" layer="95"/>
-<pinref part="R16" gate="G$1" pin="1"/>
+<pinref part="R2" gate="G$1" pin="1"/>
 </segment>
 <segment>
 <wire x1="-58.42" y1="22.86" x2="-68.58" y2="22.86" width="0.1524" layer="91"/>
 <wire x1="-68.58" y1="22.86" x2="-68.58" y2="43.18" width="0.1524" layer="91"/>
 <label x="-57.658" y="22.098" size="1.778" layer="95"/>
-<pinref part="X4" gate="G$1" pin="P2"/>
+<pinref part="X1" gate="G$1" pin="P2"/>
 </segment>
 </net>
 <net name="+12V" class="0">
 <segment>
-<pinref part="X4" gate="G$1" pin="P8"/>
+<pinref part="X1" gate="G$1" pin="P8"/>
 <pinref part="P+39" gate="1" pin="+12V"/>
 <wire x1="-83.82" y1="15.24" x2="-83.82" y2="43.18" width="0.1524" layer="91"/>
 </segment>
