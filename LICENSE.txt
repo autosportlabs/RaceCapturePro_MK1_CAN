@@ -1,0 +1,10 @@
+Autosport Labs Creative Commons License
+
+The Autosport Labs ShiftX project artifacts (hardware, software) are released under the Creative Commons License BY-SA 3.0 with the following additional requirements:
+
+Our requirements for attribution on copied / derivative works:
+You do not imply that your work is affiliated with or endorsed by Autosport Labs without permission
+You do not include the "Autosport Labs" name, logo, or derivatives thereof in the name of your derivative work, product, company, or domain name without permission
+You do not include the specific project/product name "CANx" in the name of your derivative work, product, company or domain name without permission
+
+Visit this page http://creativecommons.org/licenses/by-sa/3.0/legalcode for the full text of the Creative-Commons BY-SA License 
