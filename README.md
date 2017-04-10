@@ -12,6 +12,13 @@ Autosport Labs
 http://www.autosportlabs.com
 
 
+Building the CANx board
+=======================
+
+Parts are defined in the CANx.csv. 
+
+* All resistors are 0603 5%
+* All capacitors are 0603 X7R
 
 
 
