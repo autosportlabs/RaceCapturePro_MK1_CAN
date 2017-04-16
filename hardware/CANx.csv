@@ -1,0 +1,12 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"";
+"1";"";"MCP2515ST";"TSSOP20";"U1";"MC2515";"";
+"1";"";"WE-CBF_1812";"1812";"L1";"SMD EMI Suppression Ferrite Beads";"";
+"1";"0.1uF";"C-USC0603K";"C0603K";"C4";"CAPACITOR, American symbol";"";
+"1";"0.1uf";"C-USC0603K";"C0603K";"C5";"CAPACITOR, American symbol";"";
+"1";"10uF";"CPOL-USSMCD";"SMC_D";"C1";"POLARIZED CAPACITOR, American symbol";"";
+"1";"120";"R-US_R0603";"R0603";"R2";"RESISTOR, American symbol";"";
+"1";"16MHz";"CRYSTAL5X3";"CRYSTAL-SMD-5X3";"Q1";"Crystals";"";
+"2";"22pF";"C-USC0603K";"C0603K";"C2, C3";"CAPACITOR, American symbol";"";
+"1";"4.7K";"R-US_R0603";"R0603";"R1";"RESISTOR, American symbol";"";
+"1";"MCP2551SO8";"MCP2551SO8";"SO08";"U2";"CAN Tranceiver Microchip";"";
+"2";"RJ45_RIGHT_ANGLEMOLEX_95001-2881";"RJ45_RIGHT_ANGLEMOLEX_95001-2881";"RJ45_RIGHT_ANGLE_MOLEX_95001-2881";"X1, X2";"";"";
