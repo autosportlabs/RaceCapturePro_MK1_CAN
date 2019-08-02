@@ -1,4 +1,4 @@
-CANx
+CAN for RaceCapture/Pro MK1
 ====
 
 CAN Bus interface module for RaceCapture/Pro MK1 only. This adds a single CAN bus interface channel that integrates with the SPI interface available on RJ45 port. 
